@@ -1,0 +1,11 @@
+.place__paragraph{
+    width: 484px;
+    max-height: 261px;
+    margin-top: 48px;
+    font-size: 18px;
+    line-height: 29.34px; 
+    font-weight: normal;
+}
+.place__paragraph:last-child{
+    margin-top: 26px;
+}
