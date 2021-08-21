@@ -1,0 +1,10 @@
+.cover{
+    display: flex;
+    background-image: url(../../../images/cover-trains.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 92px;
+    min-height: 740px;
+    font-family: "Inter", arial, sans-serif;
+}
