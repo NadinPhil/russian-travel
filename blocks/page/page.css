@@ -1,7 +1,8 @@
 .page{
     background-color: #2A2C2F;
     max-width: 1280px;
-    width: 100%;
+    min-width: 320px;
+    /*width: 100%;*/
     color: white;
     font-family: "Inter", arial, sans-serif;
 }

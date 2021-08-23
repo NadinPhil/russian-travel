@@ -1,6 +1,5 @@
 .place__website{
     width: 484px;
-    height: 152px;
     display: flex;
     flex-direction: column;
     justify-content: flex-end;

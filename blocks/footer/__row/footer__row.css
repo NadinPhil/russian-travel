@@ -1,0 +1,7 @@
+.footer__row{
+    margin: 0 auto;
+    margin-top: 92px;
+    padding-bottom: 24px;
+    display: flex;
+    justify-content: space-between;
+}
