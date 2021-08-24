@@ -1,7 +1,18 @@
 .footer__row{
-    margin: 0 auto;
     margin-top: 92px;
     padding-bottom: 24px;
     display: flex;
     justify-content: space-between;
 }
+ 
+@media (max-width: 768px){
+    .footer__row{
+        margin-top: 88px;  
+    }
+} 
+@media (max-width: 320px){
+    .footer__row {
+        margin-top: 64px; 
+        flex-direction: column;
+    }
+} 

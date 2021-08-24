@@ -1,7 +1,21 @@
 .intro__container{
-    max-width: 690px;
-    max-height: 429px;
-    width: 90%;
-    margin: 0 auto;
     margin-left: 100px;
+    max-width: 690px;
 }
+@media (max-width: 1024px){
+    .intro__container  {
+        margin-left: 0px;
+    }
+}    
+@media (max-width: 768px){
+    .intro__container  {
+        margin-left: 0px;
+        max-width: 720px;
+    }
+} 
+@media (max-width: 320px){
+    .intro__container {
+        margin-left: 0px; 
+        max-width: 288px; 
+    }
+} 
