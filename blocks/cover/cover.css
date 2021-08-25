@@ -9,19 +9,20 @@
     color: white;
     font-family: "Inter", arial, sans-serif;
 }
-@media (max-width: 1024px){
+@media (max-width: 1024px) {
     .cover {
-        min-height: 640px;   
+        min-height: 640px;
     }
-@media (max-width: 768px){
+}
+@media (max-width: 768px) {
     .cover {
-        margin-top: 90px; 
+        margin-top: 90px;
         min-height: 480px;
     }
 } 
-@media (max-width: 320px){
+@media (max-width: 320px) {
     .cover {
         margin-top: 66px;
-        min-height: 200px;  
+        min-height: 200px;
     }
 } 

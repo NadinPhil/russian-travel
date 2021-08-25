@@ -9,13 +9,13 @@
 .footer__link:last-child{
     margin-right: 0px;
 }
-@media (max-width: 690px){
+@media (max-width: 690px) {
     .footer__link {
         font-size: 12px;
         line-height: 14px; 
     }
 }
-@media (max-width: 575px){
+@media (max-width: 575px) {
     .footer__link {
         margin-bottom: 32px;
         font-size: 24px;
@@ -23,4 +23,5 @@
     }
     .footer__link:last-child{
         margin-bottom: 0px;
+    }
 } 
