@@ -10,7 +10,7 @@
         margin-top: 88px;  
     }
 } 
-@media (max-width: 320px){
+@media (max-width: 575px){
     .footer__row {
         margin-top: 64px; 
         flex-direction: column;

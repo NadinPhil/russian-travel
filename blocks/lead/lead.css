@@ -1,4 +1,6 @@
 .lead{
     position: relative;
     text-align: center;
+    color: white;
+    font-family: "Inter", arial, sans-serif;
 }

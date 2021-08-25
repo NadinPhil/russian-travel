@@ -10,8 +10,3 @@
         line-height: 12px;   
     }
  } 
- @media (max-width: 320px){
-    .place__website_url-heading{
-        line-height: 12px;  
-    }
- }

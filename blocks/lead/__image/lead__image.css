@@ -5,7 +5,7 @@
 }
 @media (max-width: 1024px){
     .lead__image{
-        max-width: 100%;
+        max-width: 928px;
         margin-top: 56px;
     }
 }    

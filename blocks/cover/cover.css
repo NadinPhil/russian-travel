@@ -1,11 +1,12 @@
 .cover{
     display: flex;
-    background-image: url(../../../images/cover-trains.jpg);
+    background-image: url(../../images/cover-trains.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
     margin-top: 92px;
     min-height: 740px;
+    color: white;
     font-family: "Inter", arial, sans-serif;
 }
 @media (max-width: 1024px){

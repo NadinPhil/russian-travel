@@ -11,17 +11,24 @@
         margin-top: 48px;
     }
 }  
-@media (max-width: 768px){
+@media (max-width: 690px){
     .lead__title{
-        margin-top: 48px;
+        font-size: 70px;
+        line-height: 72px;
+        max-width: 656px;
+    }
+}
+@media (max-width: 575px){
+    .lead__title{
+        font-size: 42px;
+        line-height: 44px;
+        max-width: 558px;
     }
 }
 @media (max-width: 320px){
     .lead__title{
-        margin-top: 48px;
         font-size: 40px;
         line-height: 44px;
         max-width: 288px;
-    
     }
 }
