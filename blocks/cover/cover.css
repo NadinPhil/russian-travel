@@ -12,6 +12,7 @@
 @media (max-width: 1024px) {
     .cover {
         min-height: 640px;
+        padding: 0;
     }
 }
 @media (max-width: 768px) {

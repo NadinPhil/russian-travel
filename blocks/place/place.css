@@ -29,7 +29,7 @@
 } 
 @media (max-width: 575px) {
     .place {
-        max-width: 558px;
+        max-width: 541px;
         margin-top: 50px;
         grid-template-columns: 160px 1fr;
         grid-column-gap: 10px;
@@ -40,7 +40,7 @@
     .place {
         max-width: 320px;
         margin-top: 50px;
-        grid-template-columns: 288px;
+        grid-template-columns: 320px;
         grid-row-gap: 32px;
     }
 } 

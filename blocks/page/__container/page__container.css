@@ -5,21 +5,7 @@
 }
 @media (max-width: 1024px){
     .page__container{
-        max-width: 928px;
+        max-width: initial;
     }
 }    
-@media (max-width: 768px){
-    .page__container{
-        max-width: 720px;
-    }
-} 
-@media (max-width: 575px){
-    .page__container{
-        max-width: 558px;
-    }
-} 
-@media (max-width: 320px){
-    .page__container{
-        max-width: 288px;
-    }
-}       
+     
