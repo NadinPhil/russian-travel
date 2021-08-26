@@ -1,4 +1,25 @@
 .footer{
     color: white;
     font-family: "Inter", arial, sans-serif;
+    padding: 0;
+}
+@media (max-width: 1024px){
+    .footer{
+        padding: 0 48px;
+    }
+} 
+@media (max-width: 768px){
+    .footer{
+        padding: 0 24px;
+    }
+} 
+@media (max-width: 575px){
+    .footer{
+        padding: 0 17px;
+    }
+} 
+@media (max-width: 320px){
+    .footer{
+        padding: 0 16px;
+    }
 }
