@@ -1,6 +1,6 @@
 .lead__image{
     margin-top: 64px;
-    max-width: calc(100% - 196px);
+    max-width: calc(100% - 200px);
     width: 100%;
 }
 @media (max-width: 1024px){
@@ -13,13 +13,12 @@
     .lead__image{
         margin-top: 56px;
         max-width: 768px;
-        width: 100%;
+        
     }
 } 
 @media (max-width: 320px){
     .lead__image{
         margin-top: 40px;
-        /*max-width: 320px;*/
-        width: 100%;
+        max-width: 320px; 
     }
 }  

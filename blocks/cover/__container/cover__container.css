@@ -8,7 +8,9 @@
     text-align: center;
     /*padding: 10px;*/
     width: 100%;
+    background: rgba(42, 44, 47, 0.3);
 }
 .cover__container:hover{
-    background: rgba(42, 44, 47, 0.3);  
+    transition: linear 0.5s;
+    background: rgba(42, 44, 47, 0.8);  
 }

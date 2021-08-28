@@ -9,6 +9,10 @@
 .footer__link:last-child{
     margin-right: 0px;
 }
+.footer__link:hover{
+        opacity: 0.8;
+        transition: linear 0.5s;
+}
 @media (max-width: 690px) {
     .footer__link {
         font-size: 12px;

@@ -3,9 +3,14 @@
     color: white;
     font-family: "Inter", arial, sans-serif;
 }
-@media (max-width: 1024px){
+@media (max-width: 768px){
     .places {
-        padding-top: 12px;   
+        padding-top: 15px;   
+    }
+}
+@media (max-width: 320px){
+    .places {
+        padding-top: 14px;   
     }
 }
 
