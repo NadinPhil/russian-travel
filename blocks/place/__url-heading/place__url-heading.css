@@ -6,7 +6,6 @@
     line-height: 170%;
     font-weight: normal;
     letter-spacing: 2px;
-    color: white;
 }
 @media (max-width: 768px){
     .place__url-heading{
